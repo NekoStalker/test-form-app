@@ -17,8 +17,7 @@
 </template>
 <script>
 export default {
-  data() {
-  },
+
   methods: {
     goHome() {
       if (this.$route.path !== '/') {

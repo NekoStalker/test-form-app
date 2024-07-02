@@ -41,7 +41,6 @@
       },
       activity: {
         type: Object,
-        required: true,
       },
     },
     data() {

@@ -52,6 +52,7 @@
       return {
         dialog: false,
         detailsDialog: false,
+        selectedActivity: {},
         headers: [
             { text: 'Номер', value: 'index', sortable: false },
             { text: 'Название активности', value: 'type' },
